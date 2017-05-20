@@ -1,0 +1,22 @@
+config:
+    motd: ""
+    max-slots: 1000
+    mysql:
+        host: ""
+        base: ""
+        user: ""
+        pass: ""
+    welcome-message: []
+    teleport-delay: 5
+    spawn-location:
+        world: world
+        x: 0
+        y: 100
+        z: 0
+    helpop-delay: 60
+    disallowed-words: []
+    group-prefixes:
+        vip: "&8[&6VIP&8]"
+    limit:
+        seconds: 1
+        players: 2

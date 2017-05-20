@@ -1,0 +1,5 @@
+name: xcrBungeeTools
+main: pl.xcrafters.xcrbungeetools.ToolsPlugin
+author: defabricated
+version: 1.0
+depends: [xcrBungeePerms, xcrBungeeAuth, xcrBungeeSektory, xcrBungeeConnect]
